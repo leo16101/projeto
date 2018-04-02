@@ -1,0 +1,12 @@
+*{
+font-family: Courier, Verdana, Arial;
+}
+#verde, h1, h2 {
+	color: lightgreen;
+}
+.centro {
+	text-align: center;
+}
+body{
+	background-color:gray;
+}
